@@ -93,6 +93,3 @@ func google_sheet_conn() {
 	}*/
 
 }
-//4/0AY0e-g7paNH2RO2b9-s5RLNOM1Eup49YoqlBGdgu3OpN0OEapkidJfRhxKGlFBr_934a-w
-//4/0AY0e-g4f-1XqJrO5auGnT5iGlGJ8jzPgGDPU-FSQdELO2cUf3vN7dhKU29JOVX9A6OQ8CQ
-//https://accounts.google.com/o/oauth2/v2/auth?scope=https%3A//www.googleapis.com/auth/spreadsheets&access_type=offline&response_type=code&redirect_uri=http%3A//localhost:8000/oauth2callback&client_id=192374438046-n5n1nf1c91vov81tpus9i45ctd05sfjq.apps.googleusercontent.com&prompt=consent
